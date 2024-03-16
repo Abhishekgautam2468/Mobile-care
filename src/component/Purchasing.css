@@ -1,0 +1,11 @@
+.pur-box{
+    background-color: rgb(122, 152, 190);
+    margin-top: 15px;
+    margin: auto;
+    height: 100vh;
+    width: 75%;
+    padding: 2em;
+}
+.pur-list{
+    list-style: none;
+}

@@ -1,0 +1,33 @@
+.home-opening{
+
+    /* opacity: .5; */
+    background-color: rgba(248, 245, 245, 0.459);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    
+    height: 150vh;
+    width: 100vw;
+    /* background-color: #686767; */
+    backdrop-filter: blur(10px);
+    animation-name: slide;
+    transform-origin: bottom;
+    transition: 10s linear;
+    
+    transition-delay: 10s;  
+      /* transform: translate(0,-500%); */
+     animation-duration: 10s;
+     animation-fill-mode: forwards;
+    
+   
+} 
+@keyframes slide{
+    0%{
+
+    }
+    100%{
+        transition: 10s linear;
+        transform: translate(0,-500%);
+    }
+}
