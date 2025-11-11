@@ -1,3 +1,4 @@
 Edit-1 from master
+EDIT-2 from master
 
 Edit-1 from branch1
