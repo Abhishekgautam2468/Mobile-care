@@ -1,2 +1,3 @@
-this is first commit from master
+Edit-1 from master
 
+Edit-1 from branch1
